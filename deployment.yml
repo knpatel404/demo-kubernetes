@@ -1,0 +1,4 @@
+apiVersion: v1 # API version
+kind: Deployment # Type of resource
+metadata: # Metadata of the resource
+  name: demo-deployment # Name of the deployment

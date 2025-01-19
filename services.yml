@@ -1,0 +1,4 @@
+apiVersion: v1 # API version
+kind: Service # Type of resource
+metadata: # Metadata of the resource
+  name: demo-service # Name of the service
